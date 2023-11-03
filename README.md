@@ -7,7 +7,7 @@ Full schedule available [here](https://sites.google.com/site/boumedienehamzi/mac
 
 - **Part I:** November 2, Presenter: [Gabriele Santin](https://gabrielesantin.github.io/)
   - <u>Goals:</u>   Motivations, Intro of basic concepts, definition of GNNs.
-  - <u>Material:</u> [Slides]().
+  - <u>Material:</u> [Slides](https://github.com/steveazzolin/gdl_tutorial_turinginst/blob/main/Graph%20Deep%20Learning%20-%20Part%20I.pdf).
 - **Part II:** November 9, Presenter: [Antonio Longa](https://antoniolonga.github.io/)
   - <u>Goals:</u>    Implementation of GNNs: How to implement a full GNN pipeline in PyTorch Geometric.
   - <u>Material:</u> Coming soon. 
